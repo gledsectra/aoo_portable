@@ -4,5 +4,7 @@ Automation with Apache Open Office (for Windows) portable (Files and Folders by 
 Setup:
 
 1 - Save the folders of this project into the destination folder on your pc
+
 2 - Run _config.bat to add required keys into Windows Registry
+
 3 - Run the file test.vbs to test 
