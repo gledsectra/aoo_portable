@@ -11,5 +11,5 @@ How to use:
 
 Notes: 
 If you need change the folder location after configuration, you have to run \_config.bat again.
-If you already have the Open Office installed, the steps 1 and 2 are unnecessary. 
+If you already have the Open Office installed, the steps 1 and 2 are unnecessary, and can override the original settings. 
 Use it at your own risk.
